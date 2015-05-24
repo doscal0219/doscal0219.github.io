@@ -19,7 +19,8 @@ img {
 	position: relative;
 	top: 15px;
 	left: 1px;	
-	font-family: Florence, cursive;
+	font-family: 'Monsieur La Doulaise', cursive;
+	font-size: 40px;
 }
 
 #description {
